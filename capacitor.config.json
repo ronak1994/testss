@@ -1,0 +1,6 @@
+{
+  "appId": "com.chatbox.vaya",
+  "appName": "chatbox",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}

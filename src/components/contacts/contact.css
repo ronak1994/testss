@@ -1,0 +1,37 @@
+.contact_heading {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.card-style {
+    border-radius: 0px;
+}
+
+.list-custom .list-group-item i.has-bg {
+    height: 52px;
+    width: 52px;
+    line-height: 52px;
+    font-size: 22px;
+    border-radius: 50%;
+}
+
+.online_label {
+    position: absolute;
+    right: 0px;
+    display: flex !important;
+    font-style: italic;
+}
+
+.green_dot {
+    width: 10px;
+    height: 10px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+.red_dot {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    border-radius: 50%;
+}

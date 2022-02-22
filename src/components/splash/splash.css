@@ -1,0 +1,19 @@
+.splashBox {
+  height: 100vh;
+  display: flex;
+  width: 100%;
+  background: #333;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  align-items: center;
+  margin: auto;
+  background-image: url('bg.png');
+  background-size: cover;
+}
+
+.splashBox h2 {
+  color: #fff;
+  font-size: 32px;
+  opacity: 0.8;
+}

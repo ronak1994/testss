@@ -1,0 +1,25 @@
+.card-center {
+    max-width: 90%;
+    margin: auto;
+    top: 80px;
+    transform: translateY(0%);
+}
+
+.show_password {
+    margin-left: 5px;
+    margin-top: -3px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.btn-sm {
+    padding: 4px 8px;
+}
+
+.logout-btn {
+    float: right;
+}
+
+.register_form {
+    width: 500px;
+}
